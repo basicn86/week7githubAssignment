@@ -1,0 +1,3 @@
+# week7githubAssignment
+
+This program demonstrates the use of a struct in C++. The struct is capable of holding multiple variables in one single variable. It's able to store as many and as little variables as the user desires. You can even store a struct inside of a struct. However, in this program, the struct stores bowlers' profiles. The bowlers' profiles include their name, scores, and their average score. This program reads all the names and scores from a file and stores it into a bowler struct. The program then calculates the average score for each bowler. Finally, the program will output all the bowlers' information out onto the console. This information includes their name, scores, and calculated average score.
